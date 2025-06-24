@@ -64,39 +64,43 @@ Development of classic client-server and other centralized software needed to ac
 ✅ API development - blockchain.info poloniex.com, bitfinex.com, hitbtc.com, coinbase.com, kraken.com, cex.io<br>
 
  </p>
-
-  
-### Languages 🧑‍💻 and Tools ⚙️:
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,py,c,cpp,cs,dotnet,html,css,js,ts,bootstrap,php,md,solidity, rust,ethereum,solana,ton" alt="skills logos" /> <br>
-
-### IDE and Editors💻:
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,vim,replit" alt="skills logos" />
-
-### Others 💻:
-
-<img src="https://skillicons.dev/icons?i=linux,bash,regex,powershell,docker,azure,mysql,sqlite,gradle,maven,nginx,pr,ps,svg,discord,linkedin,netlify,gherkin" alt="skills logos" />
-
-### My Projects 🙌
-
-####
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/LyiZri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyiZri&hide=prs&theme=algolia&layout=compact&show_icons=true"/>
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cryptocore1001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LyiZri&layout=compact&langs_count=8&theme=algolia"/>
+<h1 align="center">Hi 👋, I'm Yufan</h1><h3 align="center">A passionate Java developer from China!</h3><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lyizri" alt="Lyizri" /></a> </p><h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jest.io" target="_blank"> <img src="https://devicon-website.vercel.app/api/jest/plain.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://solidity.io/" target="_blank"> <img src="https://devicon-website.vercel.app/api/solidity/plain.svg" alt="solidity" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+<a>
+<img src="https://devicon-website.vercel.app/api/denojs/original.svg" width="40" height="40"></img>
 </a>
- <br />
-  
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gastonponti&theme=algolia" alt="cryptocore1001" /></p> -->
+<a>
+<img src="https://devicon-website.vercel.app/api/chrome/original.svg" width="40" height="40" alt="chrome"/>
+</a>
+<a>
+<img src="https://devicon-website.vercel.app/api/go/original.svg" width="40" height="40" alt="golang"/>
+</a>
+<a>
+<img src="https://devicon-website.vercel.app/api/nextjs/original.svg" width="40" height="40" alt="nextjs"/>
+</a>
+<a>
+<img src="https://devicon-website.vercel.app/api/python/original.svg" width="40" height="40" alt="python"/>
+</a>
+<a>
+<img src="https://devicon-website.vercel.app/api/rust/plain.svg" width="40" height="40" alt="rust"/>
+</a>
+<a>
+<img src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" width="40" height="40" alt="ubuntu"/>
+</a>
+</p>
 
-<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=LyiZri&column=6&theme=algolia" alt="LyiZriTrophy" /></p>
+---
 
+### :memo:Weekly Development ###
 
-😀😀😀
-<!-- ![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg) -->
-I'm a fast, time-saving developer.
+![Lyizri Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lyizri&layout=compact&theme=radical)
+
+---
+
+### 🧐Contribution ###
+
+![Lyizri](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyizri&layout=compact&theme=onedark)
+
+![Lyizri](https://github-readme-stats.vercel.app/api?username=Lyizri&count_private=true&show_icons=true&theme=tokyonight&show_owner=true)
+
+[![Lyizri](https://github-readme-activity-graph.vercel.app/graph?username=Lyizri&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
